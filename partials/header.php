@@ -7,6 +7,7 @@
 	<meta name="keywords" content="<?= $kw ?>">
 	<meta name="description" content="<?= $desc ?>">
 	<link rel="stylesheet" href="/assets/css/global.min.css">
+	<link rel="stylesheet" href="/assets/libraries/bootstrap-grid/bootstrap-grid.min.css">
 	<?php
 	switch ($page) {
 		case 'index':
