@@ -25,9 +25,9 @@ include "partials/header.php" ?>
             <div class="col-12 col-md-2 item">3</div>
         </div>
         <div class="row">
-        <div class="col-12 col-md-6 item">4</div>
-        <div class="col-12 col-md-2 d-none d-md-flex"></div>
-        <div class="col-12 col-md-2 item">4</div>
+            <div class="col-12 col-md-6 item">4</div>
+            <div class="col-12 col-md-2 d-none d-md-flex"></div>
+            <div class="col-12 col-md-2 item">4</div>
         </div>
         <div class="row">
             <div class="col-6 col-md-2 item">5</div>
